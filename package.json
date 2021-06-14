@@ -1,0 +1,20 @@
+{
+  "name": "full-bitcoin-blockchain-data-made-easy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "keywords": [
+    "paper",
+    "bitcoin"
+  ],
+  "author": "ethicnology",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "embedme": "^1.22.0",
+    "vuepress": "^1.8.2"
+  }
+}
